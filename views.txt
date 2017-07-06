@@ -1,0 +1,7 @@
+##Alerts / Dialogs
+###Modal
+- Title should be a statement of the action in progress.
+- Text should be descriptive of the action in progress with enough information to make a decision.
+- Button text should be verbs.
+- The "continue the action" button should be the right most button.
+- The "don't take this action" button can be labled "cancel", however that may not always be descriptive, and it should not be used if it could be confused with the intended action.
