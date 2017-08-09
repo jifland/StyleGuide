@@ -1,0 +1,4 @@
+Guiding Principles of Branching and Source Control:
+
+* Working branches should be in sync with each other to the extent that is reasonable (in reference to work load and deployment realities.)
+* 
